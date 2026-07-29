@@ -1,5 +1,8 @@
 # 1st Phase E Commerece
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-HTML-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/1st-phase-e-commerece)
+
+
 1st Phase E Commerece — a HTML project by Alaashamel.
 
 ## ✨ Features
